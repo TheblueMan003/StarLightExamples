@@ -1,0 +1,50 @@
+{
+    "polish": {
+        "intro_0": {
+            "text":"Dawno dawno temu, za górami, za lasami, czterech dzielnych czempionów z Podniebnego Królestwa stworzyli potężny artefakt znany jako Korona Kiedykolwiek.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_1": {
+            "text":"Ze szlachetnymi intencjami, bohaterowie postanowili obdarować króla tym cudownym dziełem, upoważniając go do rządzenia Podniebnym Królestwem z większą mądrością i wdziękiem.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_2": {
+            "text":"Niestety, zazdrość wypełniła serca Mrocznych Magów, którzy pożądali nowo odkrytej potęgi króla, prowadząc ich do rozpoczęcia wyniszczającej wojny w pogoni za władzą.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_3": {
+            "text":"Zmuszony szukaniem ochrony, Król był zmuszony odejść, zostawiąjąc Podniebne Królestwo bezbronne, narażone na niebezpieczeństwo gniewu Mrocznych Magów.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_4": {
+            "text":"Wraz z toczącą się bezlitosną wojną, głęboka rozpacz kładła się cieniem na sercach wszystkich, gdyż nadzieja zdawała się słabnąć z każdym mijającym dniem.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_5": {
+            "text":"Lecz, promyk nadzieji się narodził, gdy skromny człowiek wpadł na genialny pomysł, który miał potencjał, by odwrócić losy wojny na ich korzyść",
+            "pitch": 2,
+            "speed": 15
+        },
+
+        "outro_0": {
+            "text":"Z twoją bezcenną pomocą, Luke Blue, śmiały bohater, nadał Podniebnemu Pogromcy potężną moc.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_1": {
+            "text":"Tak więc, wykorzystując zwiększoną moc Podniebnego Pogromcy, Luke Blue wygnał Mrocznych Magów, zapieczętując ich w głebinach Mrocznego Królestwa.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_2": {
+            "text":"Nareszcie, spokój był przywrócony w Podniebnym Królestwie, a harmonia i ukojenie otuliły niegdyś niespokojne nieba.",
+            "pitch": 2,
+            "speed": 15
+        }
+    }
+}

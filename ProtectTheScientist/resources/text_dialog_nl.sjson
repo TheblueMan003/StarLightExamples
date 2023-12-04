@@ -1,0 +1,50 @@
+{
+    "dutch": {
+        "intro_0": {
+            "text":"Er was eens, in een ver verleden, vier dappere kampioenen uit de Sky Realm die een machtig artefact smeedden dat bekend staat als de Ever Crown.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_1": {
+            "text":"Met nobele bedoelingen besloten de helden deze wonderbaarlijke creatie aan de koning te schenken, waardoor hij de macht kreeg om de Sky Realm met grotere wijsheid en gratie te regeren..",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_2": {
+            "text":"Helaas vervulde jaloezie de harten van de Duistere Magiërs die de nieuwe macht van de koning begeerden, waardoor ze een verwoestende oorlog ontketenden in hun zoektocht naar macht.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_3": {
+            "text":"De koning wilde zichzelf in veiligheid brengen en werd gedwongen te vertrekken. Hierdoor bleef de Sky Realm kwetsbaar en weerloos achter, blootgesteld aan de gevaren van de woede van de Duistere Magiërs.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_4": {
+            "text":"Terwijl de meedogenloze oorlog voortduurde, wierp een diepe wanhoop zijn schaduw op de harten van allen, want de hoop leek elke dag af te nemen.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_5": {
+            "text":"Er ontstond echter een sprankje hoop toen een nederig mens een briljant idee bedacht dat de potentie had om het tij van de oorlog in zijn voordeel te keren.",
+            "pitch": 2,
+            "speed": 15
+        },
+
+        "outro_0": {
+            "text":"Met jouw onschatbare hulp is Luke Blue, de moedige held, erin geslaagd de Sky Buster te voorzien van formidabele kracht.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_1": {
+            "text":"Luke Blue maakte gebruik van de verbeterde macht van de Sky Buster en slaagde erin de Duistere Magiërs te verbannen en ze op te sluiten in de diepten van de Dark Realm.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_2": {
+            "text":"Eindelijk werd de rust hersteld in de Sky Realm, terwijl harmonie en sereniteit de eens zo onrustige lucht omhulden.",
+            "pitch": 2,
+            "speed": 15
+        }
+    }
+}

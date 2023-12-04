@@ -1,0 +1,50 @@
+{
+    "english": {
+        "intro_0": {
+            "text":"Once upon a time, in a distant era, four valiant champions from the Sky Realm forged a mighty artifact known as the Ever Crown.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_1": {
+            "text":"With noble intentions, the heroes resolved to bestow this wondrous creation upon the king, empowering him to govern the Sky Realm with greater wisdom and grace.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_2": {
+            "text":"Alas, envy filled the hearts of the Dark Mages who coveted the king's newfound might, leading them to ignite a devastating war in their pursuit of power.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_3": {
+            "text":"Compelled to seek safety, the King was compelled to depart, leaving the Sky Realm vulnerable and defenseless, exposed to the perils of the Dark Mages' wrath.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_4": {
+            "text":"As the relentless war waged on, a deep despair cast its shadow upon the hearts of all, for hope seemed to wane with each passing day.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_5": {
+            "text":"However, a glimmer of hope emerged when a humble human conceived a brilliant idea that held the potential to turn the tides of war in their favor.",
+            "pitch": 2,
+            "speed": 15
+        },
+
+        "outro_0": {
+            "text":"With your invaluable assistance, Luke Blue, the courageous hero, managed to imbue the Sky Buster with formidable power.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_1": {
+            "text":"Thus, harnessing the enhanced might of the Sky Buster, Luke Blue succeeded in banishing the Dark Mages, sealing them away within the depths of the Dark Realm.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_2": {
+            "text":"Finally, tranquility was restored to the Sky Realm, as harmony and serenity enveloped its once troubled skies.",
+            "pitch": 2,
+            "speed": 15
+        }
+    }
+}

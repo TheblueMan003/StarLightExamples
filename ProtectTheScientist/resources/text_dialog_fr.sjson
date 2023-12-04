@@ -1,0 +1,50 @@
+{
+    "french": {
+        "intro_0": {
+            "text":"Il était une fois, dans une époque lointaine, quatre vaillants champions du Royaume Céleste forgèrent un puissant artefact connu sous le nom de Couronne Éternelle.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_1": {
+            "text":"Avec de nobles intentions, les héros décidèrent de remettre cette merveilleuse création au roi, lui donnant ainsi le pouvoir de gouverner le Royaume Céleste avec plus de sagesse et de grâce.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_2": {
+            "text":"Hélas, l'envie remplit les cœurs des Mages Sombres qui convoitaient la nouvelle puissance du roi, les poussant à déclencher une guerre dévastatrice dans leur quête de pouvoir.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_3": {
+            "text":"Contraint de chercher la sécurité, le roi fut contraint de partir, laissant le Royaume Céleste vulnérable et sans défense, exposé aux périls de la colère des Mages Sombres.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_4": {
+            "text":"Alors que la guerre implacable continuait, un profond désespoir jeta son ombre sur les cœurs de tous, car l'espoir semblait s'amenuiser de jour en jour.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_5": {
+            "text":"Cependant, un éclat d'espoir surgit lorsque qu'un humble humain conçut une idée brillante qui avait le potentiel de faire pencher la balance de la guerre en leur faveur.",
+            "pitch": 2,
+            "speed": 15
+        },
+
+        "outro_0": {
+            "text":"Grâce à votre assistance inestimable, Luke Blue, le courageux héros, réussit à imprégner le Destructeur Céleste d'une puissance redoutable.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_1": {
+            "text":"Ainsi, en utilisant la puissance accrue du Destructeur Céleste, Luke Blue parvint à chasser les Mages Sombres, les enfermant dans les profondeurs du Royaume Obscur.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_2": {
+            "text":"Enfin, la paix fut restaurée dans le Royaume Céleste, alors que l'harmonie et la sérénité enveloppaient ses cieux autrefois tourmentés.",
+            "pitch": 2,
+            "speed": 15
+        }
+    }
+}
