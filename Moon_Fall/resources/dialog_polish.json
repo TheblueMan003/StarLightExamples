@@ -1,0 +1,228 @@
+{
+    "polish": {
+        "empty": {
+            "text":" ",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_0": {
+            "text":"Słuchaj, mówię ci! Mroczni magowie powrócą.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_1": {
+            "text":"Zapieczętowanie słabnie. Musimy się przygotować na najgorsze.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_2": {
+            "text":"Potrzebujemy aby Podniebny Pogromca był jeszcze bardziej potężniejszy niż kiedykolwiek.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_3": {
+            "text":"To już jest najpotężniejsza broń na świecie!",
+            "pitch": 1.75,
+            "speed": 15
+        },
+        "intro_4": {
+            "text":"Założymy się? Pokażę ci! Nie może nawet zostawić ślady na księżycu!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_5": {
+            "text":"Hmm ... No nie wiem. To zbyt niebezpieczne.",
+            "pitch": 1.75,
+            "speed": 15
+        },
+        "intro_6": {
+            "text":"Zrobię to! Pokażę ci!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_7": {
+            "text":"Chwila, coś jest nie tak.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_8": {
+            "text":"To niepowinno być tak jasne. To jest za jasne!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_9": {
+            "text":"O nie!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_10": {
+            "text":"BLUE! Coś ty narobił!",
+            "pitch": 1.75,
+            "speed": 15
+        },
+        "intro_11": {
+            "text":"Ja.. Ja nie wiem!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_12": {
+            "text":"Musimy to naprawić! Sprawdzę czy Mag Lodu nam pomoże.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+
+
+        "outro_0": {
+            "text":"Zobacz! To Blue!",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_1": {
+            "text":"BLUE! Co zrobiłeś z Księżycem?",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_2": {
+            "text":"Strzeliłem do niego z Podniebnego Pogromcy!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_3": {
+            "text":"Ty idioto! Podniebny Pogromca to magiczna broń!",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_4": {
+            "text":"Księżyc to magiczny wzmacniacz! Właśnie wzmocniłeś Podniebnego Pogromcę!",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_5": {
+            "text":"O nie! Co teraz zrobimy?",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_6": {
+            "text":"Jedynym sposobem, na naszą ochronę przed odłamkami, byłoby rzucenie tarczy na cały świat.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_7": {
+            "text":"Lecz to by potrzebowało dużo magicznej mocy. Nie mamy czasu by uzbierać magów.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_8": {
+            "text":"Dam radę zrobić to samej. Przecież, jestem najpotężniejszą czarodzieją na świecie.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_9": {
+            "text":"Ale potrzebowałabym zamienić moje doświadczenie w magiczną moc. Potrzebowałabym dużo doświadczenia.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_10": {
+            "text":"Chwila, mamo, nie możesz tego zrobić!",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_11":{
+            "text": "Stracisz tytuł Najwspanialszej Czarownicy w Podniebnym Królestwie!",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_12": {
+            "text":"To jedyny sposób. Poza tym byłam najsilniejszą czarownicą przez 1000 lat.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_13": {
+            "text":"To twój czas przejąć kontrole.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_14": {
+            "text":"Blue, czy masz Kryształową Księgę jaką ci podarowałam?",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_15": {
+            "text":"Tak, tutaj jest.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_16": {
+            "text":"Dobra, zróbmy to.",
+            "pitch": 2,
+            "speed": 15
+        },
+
+
+        "outro_100": {
+            "text":"Gis! Wszystko wporządku?",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_101": {
+            "text":"Jest ok. Jestem tylko zmęczona.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_102": {
+            "text":"Nie będę w stanie rzucić żadnego zaklęcia, ale bariera powinna być w stanie zapewnić nam bezpieczeństwo.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_103": {
+            "text":"Przepraszam.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_104": {
+            "text":"Blue. Wiem że jesteś zmartwiony mrocznymi magami.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_105": {
+            "text":"Ale wątpie że ta siła jądrowa jest rozwiązaniem.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_106": {
+            "text":"Pewnie masz rację.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_107": {
+            "text":"Po prostu nie chcę aby się wydarzył kolejny wypadek.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_108": {
+            "text":"Skoro o tym mowa. Ze mną bez magi, Jevinem wciąż zaginionym i odejściem Pauline, nie jesteśmy w dobrej pozycji.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_109": {
+            "text":"Miejmy nadzieję że mroczni magowie nie zaatakują nas w najbliższym czasie.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_110": {
+            "text":"Nie martw się. Pracuję nad nowym systemem obronnym.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_111": {
+            "text":"Spróbój tym razem nie popełnić żadnego błędu.",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_112": {
+            "text":"Ha ha ha. Nie popełnię.",
+            "pitch": 1.5,
+            "speed": 15
+        }
+    }
+}

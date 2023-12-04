@@ -1,0 +1,228 @@
+{
+    "english": {
+        "empty": {
+            "text":" ",
+            "pitch": 2,
+            "speed": 15
+        },
+        "intro_0": {
+            "text":"Listen, I'm telling you! The dark mages will come back.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_1": {
+            "text":"The seal is weakening. We must prepare for the worst.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_2": {
+            "text":"We need the Sky Buster to be more powerful than ever.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_3": {
+            "text":"It is already the most powerful weapon in the world!",
+            "pitch": 1.75,
+            "speed": 15
+        },
+        "intro_4": {
+            "text":"Wanna bet? I'll show you! It can't even leave a mark on the moon!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_5": {
+            "text":"Hmm ... I don't know. It's too dangerous.",
+            "pitch": 1.75,
+            "speed": 15
+        },
+        "intro_6": {
+            "text":"I'll do it! I'll show you!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_7": {
+            "text":"Wait, something is wrong.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_8": {
+            "text":"It shouldn't be this bright. It's too bright!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_9": {
+            "text":"Oh shoot!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_10": {
+            "text":"BLUE! What did you do!",
+            "pitch": 1.75,
+            "speed": 15
+        },
+        "intro_11": {
+            "text":"I.. I don't know!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "intro_12": {
+            "text":"We have to fix that! I'm going to see if the Ice Mage can help.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+
+
+        "outro_0": {
+            "text":"Oh look! It's Blue!",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_1": {
+            "text":"BLUE! What did you do to the moon?",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_2": {
+            "text":"I shot the moon with the Sky Buster!",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_3": {
+            "text":"You idiot! The Sky Buster is a magic weapon!",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_4": {
+            "text":"The moon is a magic amplifier! You just amplified the Sky Buster!",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_5": {
+            "text":"Oh no! What do we do?",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_6": {
+            "text":"The only way to protect us from the debris would be to cast a world wide shield.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_7": {
+            "text":"But that would require a lot of magic power. We don't have time to gather mages.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_8": {
+            "text":"I should be able to do it alone. After all, I'm the most powerful mage in the world.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_9": {
+            "text":"But I'll need to convert my experience into magic power. I'll need a lot of it.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_10": {
+            "text":"Wait mom, you can't do that!",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_11":{
+            "text": "You'll lose your title as the Greatest Mage of the Sky Realm!",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_12": {
+            "text":"It's the only way. Plus I've been the strongest mage for a 1000 years.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_13": {
+            "text":"It's time for you to take over.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_14": {
+            "text":"Blue, do you have the Crystal Book I lend you?",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_15": {
+            "text":"Yes, here it is.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_16": {
+            "text":"Alright, Let's do this.",
+            "pitch": 2,
+            "speed": 15
+        },
+
+
+        "outro_100": {
+            "text":"Gis! Are you okay?",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_101": {
+            "text":"I'm fine. I'm just tired.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_102": {
+            "text":"I won't be able to cast any spell for a while but the barrier should be able to keep us safe.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_103": {
+            "text":"I'm sorry.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_104": {
+            "text":"Blue. I know you are worried about the dark mages.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_105": {
+            "text":"But I don't think that nuclear force is the answer.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_106": {
+            "text":"You are probably right.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_107": {
+            "text":"I just don't want a new accident to happen again.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_108": {
+            "text":"Speak of which. With me out of magic, Jevin still missing & Pauline gone, we are not in a good position.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_109": {
+            "text":"Let's hope the dark mages don't attack us anytime soon.",
+            "pitch": 2,
+            "speed": 15
+        },
+        "outro_110": {
+            "text":"Don't worry. I'm working on a new defense system.",
+            "pitch": 1.5,
+            "speed": 15
+        },
+        "outro_111": {
+            "text":"You better not make any mistake this time.",
+            "pitch": 1.25,
+            "speed": 15
+        },
+        "outro_112": {
+            "text":"Ha ha ha. I won't.",
+            "pitch": 1.5,
+            "speed": 15
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "english": {
+        "language_set": "Language set to English",
+        "info_jump": "Press W or Right Click To Jump!",
+        "info_speed": "Green Blocks Speed You Up!",
+        "info_arrow": "Arrows Blocks Change Your Direction!",
+        "info_bar": "You can hang on the bar!\nPress S or Right Click to drop down!",
+        "info_double_jump": "Blue Blocks Give You Double Jump!",
+        "info_feather_falling": "Feather Blocks Give You Feather Falling!",
+        "info_pass_through": "You can pass through the platform blocks!\nBut in only one direction!",
+        "info_wind": "Wind make you fly!\nHold S or Right Click to drop down!",
+        "info_wall_jump": "You can jump on the wall!",
+        "info_how_to_play": "How to play?"
+    }
+}

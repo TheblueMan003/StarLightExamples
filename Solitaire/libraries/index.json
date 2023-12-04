@@ -1,0 +1,933 @@
+{
+    "libraries": {
+        "__init__": [
+            {
+                "url": "__init__/1_0_0.sl",
+                "filename": "__init__.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game": [
+            {
+                "url": "game/1_0_0.sl",
+                "filename": "game.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math": [
+            {
+                "url": "math/1_0_0.sl",
+                "filename": "math.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "random": [
+            {
+                "url": "random/1_0_0.sl",
+                "filename": "random.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard": [
+            {
+                "url": "standard/1_0_0.sl",
+                "filename": "standard.sl",
+                "version": "1.0.0"
+            },
+            {
+                "url": "standard/1_0_1.sl",
+                "filename": "standard.sl",
+                "version": "1.0.1"
+            }
+        ],
+        "utils": [
+            {
+                "url": "utils/1_0_0.sl",
+                "filename": "utils.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "test": [
+            {
+                "url": "test/1_0_0.sl",
+                "filename": "test.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "animation.asynccutscene": [
+            {
+                "url": "animation/asynccutscene/1_0_0.sl",
+                "filename": "animation/asynccutscene.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "animation.cutscene": [
+            {
+                "url": "animation/cutscene/1_0_0.sl",
+                "filename": "animation/cutscene.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "animation.actionbar": [
+            {
+                "url": "animation/actionbar/1_0_0.sl",
+                "filename": "animation/actionbar.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "animation.bossbar": [
+            {
+                "url": "animation/bossbar/1_0_0.sl",
+                "filename": "animation/bossbar.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "animation.title": [
+            {
+                "url": "animation/title/1_0_0.sl",
+                "filename": "animation/title.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "animation.utils": [
+            {
+                "url": "animation/utils/1_0_0.sl",
+                "filename": "animation/utils.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.actionbar": [
+            {
+                "url": "cmd/actionbar/1_0_0.sl",
+                "filename": "cmd/actionbar.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.block": [
+            {
+                "url": "cmd/block/1_0_0.sl",
+                "filename": "cmd/block.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.bossbar": [
+            {
+                "url": "cmd/bossbar/1_0_0.sl",
+                "filename": "cmd/bossbar.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.difficulty": [
+            {
+                "url": "cmd/difficulty/1_0_0.sl",
+                "filename": "cmd/difficulty.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.effect": [
+            {
+                "url": "cmd/effect/1_0_0.sl",
+                "filename": "cmd/effect.sl",
+                "version": "1.0.0"
+            },
+            {
+                "url": "cmd/effect/1_1_0.sl",
+                "filename": "cmd/effect.sl",
+                "version": "1.1.0"
+            }
+        ],
+        "cmd.entity": [
+            {
+                "url": "cmd/entity/1_0_0.sl",
+                "filename": "cmd/entity.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.gamemode": [
+            {
+                "url": "cmd/gamemode/1_0_0.sl",
+                "filename": "cmd/gamemode.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.gamerule": [
+            {
+                "url": "cmd/gamerule/1_0_0.sl",
+                "filename": "cmd/gamerule.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.particles": [
+            {
+                "url": "cmd/particles/1_0_0.sl",
+                "filename": "cmd/particles.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.schedule": [
+            {
+                "url": "cmd/schedule/1_0_0.sl",
+                "filename": "cmd/schedule.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.score": [
+            {
+                "url": "cmd/score/1_0_0.sl",
+                "filename": "cmd/score.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.sound": [
+            {
+                "url": "cmd/sound/1_0_0.sl",
+                "filename": "cmd/sound.sl",
+                "version": "1.0.0"
+            },
+            {
+                "url": "cmd/sound/1_0_1.sl",
+                "filename": "cmd/sound.sl",
+                "version": "1.0.1"
+            }
+        ],
+        "cmd.spawnpoint": [
+            {
+                "url": "cmd/spawnpoint/1_0_0.sl",
+                "filename": "cmd/spawnpoint.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.structure": [
+            {
+                "url": "cmd/structure/1_0_0.sl",
+                "filename": "cmd/structure.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.tag": [
+            {
+                "url": "cmd/tag/1_0_0.sl",
+                "filename": "cmd/tag.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.team": [
+            {
+                "url": "cmd/team/1_0_0.sl",
+                "filename": "cmd/team.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.time": [
+            {
+                "url": "cmd/time/1_0_0.sl",
+                "filename": "cmd/time.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.title": [
+            {
+                "url": "cmd/title/1_0_0.sl",
+                "filename": "cmd/title.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.tp": [
+            {
+                "url": "cmd/tp/1_0_0.sl",
+                "filename": "cmd/tp.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.worldborder": [
+            {
+                "url": "cmd/worldborder/1_0_0.sl",
+                "filename": "cmd/worldborder.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.xp": [
+            {
+                "url": "cmd/xp/1_0_0.sl",
+                "filename": "cmd/xp.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.bedrock.dialog": [
+            {
+                "url": "cmd/bedrock/dialog/1_0_0.sl",
+                "filename": "cmd/bedrock/dialog.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.bedrock.tickingarea": [
+            {
+                "url": "cmd/bedrock/tickingarea/1_0_0.sl",
+                "filename": "cmd/bedrock/tickingarea.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.java.data": [
+            {
+                "url": "cmd/java/data/1_0_0.sl",
+                "filename": "cmd/java/data.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.java.forceload": [
+            {
+                "url": "cmd/java/forceload/1_0_0.sl",
+                "filename": "cmd/java/forceload.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math.vector2": [
+            {
+                "url": "math/vector2/1_0_0.sl",
+                "filename": "math/vector2.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math.vector2int": [
+            {
+                "url": "math/vector2int/1_0_0.sl",
+                "filename": "math/vector2int.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math.vector3": [
+            {
+                "url": "math/vector3/1_0_0.sl",
+                "filename": "math/vector3.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math.vector3int": [
+            {
+                "url": "math/vector3int/1_0_0.sl",
+                "filename": "math/vector3int.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math.raycast": [
+            {
+                "url": "math/raycast/1_0_0.sl",
+                "filename": "math/raycast.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "math.time": [
+            {
+                "url": "math/time/1_0_0.sl",
+                "filename": "math/time.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.countdown": [
+            {
+                "url": "game/countdown/1_0_0.sl",
+                "filename": "game/countdown.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.region": [
+            {
+                "url": "game/region/1_0_0.sl",
+                "filename": "game/region.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.room": [
+            {
+                "url": "game/room/1_0_0.sl",
+                "filename": "game/room.sl",
+                "version": "1.0.0"
+            },
+            {
+                "url": "game/room/1_1_0.sl",
+                "filename": "game/room.sl",
+                "version": "1.1.0"
+            }
+        ],
+        "game.timesplit": [
+            {
+                "url": "game/timesplit/1_0_0.sl",
+                "filename": "game/timesplit.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.timer": [
+            {
+                "url": "game/timer/1_0_0.sl",
+                "filename": "game/timer.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.music": [
+            {
+                "url": "game/music/1_0_0.sl",
+                "filename": "game/music.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.score": [
+            {
+                "url": "game/score/1_0_0.sl",
+                "filename": "game/score.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.parkour.snake": [
+            {
+                "url": "game/parkour/snake/1_0_0.sl",
+                "filename": "game/parkour/snake.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.inventory": [
+            {
+                "url": "mc/inventory/1_0_0.sl",
+                "filename": "mc/inventory.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.player": [
+            {
+                "url": "mc/player/1_0_0.sl",
+                "filename": "mc/player.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.pointer": [
+            {
+                "url": "mc/pointer/1_0_0.sl",
+                "filename": "mc/pointer.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.bedrock.block": [
+            {
+                "url": "mc/bedrock/block/1_0_0.sl",
+                "filename": "mc/bedrock/block.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.bedrock.resourcespack.textures": [
+            {
+                "url": "mc/bedrock/resourcespack/textures/1_0_0.sl",
+                "filename": "mc/bedrock/resourcespack/textures.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.inventory.setup": [
+            {
+                "url": "mc/inventory/setup/1_0_0.sl",
+                "filename": "mc/inventory/setup.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.armor_stand": [
+            {
+                "url": "mc/java/armor_stand/1_0_0.sl",
+                "filename": "mc/java/armor_stand.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.event": [
+            {
+                "url": "mc/java/event/1_0_0.sl",
+                "filename": "mc/java/event.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.explosion": [
+            {
+                "url": "mc/java/explosion/1_0_0.sl",
+                "filename": "mc/java/explosion.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.firework": [
+            {
+                "url": "mc/java/firework/1_0_0.sl",
+                "filename": "mc/java/firework.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.input": [
+            {
+                "url": "mc/java/input/1_0_0.sl",
+                "filename": "mc/java/input.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.nbt": [
+            {
+                "url": "mc/java/nbt/1_0_0.sl",
+                "filename": "mc/java/nbt.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.shader": [
+            {
+                "url": "mc/java/shader/1_0_0.sl",
+                "filename": "mc/java/shader.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.villager": [
+            {
+                "url": "mc/java/villager/1_0_0.sl",
+                "filename": "mc/java/villager.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.display.displayblock": [
+            {
+                "url": "mc/java/display/displayblock/1_0_0.sl",
+                "filename": "mc/java/display/displayblock.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.display.displayentity": [
+            {
+                "url": "mc/java/display/displayentity/1_0_0.sl",
+                "filename": "mc/java/display/displayentity.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.display.displayitem": [
+            {
+                "url": "mc/java/display/displayitem/1_0_0.sl",
+                "filename": "mc/java/display/displayitem.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.display.displaytext": [
+            {
+                "url": "mc/java/display/displaytext/1_0_0.sl",
+                "filename": "mc/java/display/displaytext.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.resourcespack.font": [
+            {
+                "url": "mc/java/resourcespack/font/1_0_0.sl",
+                "filename": "mc/java/resourcespack/font.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.resourcespack.models": [
+            {
+                "url": "mc/java/resourcespack/models/1_0_0.sl",
+                "filename": "mc/java/resourcespack/models.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.resourcespack.sound": [
+            {
+                "url": "mc/resourcespack/sound/1_0_0.sl",
+                "filename": "mc/resourcespack/sound.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "random.lcg": [
+            {
+                "url": "random/lcg/1_0_0.sl",
+                "filename": "random/lcg.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "random.perlin": [
+            {
+                "url": "random/perlin/1_0_0.sl",
+                "filename": "random/perlin.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.exception": [
+            {
+                "url": "standard/exception/1_0_0.sl",
+                "filename": "standard/exception.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.array": [
+            {
+                "url": "standard/array/1_0_0.sl",
+                "filename": "standard/array.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.debug": [
+            {
+                "url": "standard/debug/1_0_0.sl",
+                "filename": "standard/debug.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.float": [
+            {
+                "url": "standard/float/1_0_0.sl",
+                "filename": "standard/float.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.int": [
+            {
+                "url": "standard/int/1_0_0.sl",
+                "filename": "standard/int.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.long": [
+            {
+                "url": "standard/long/1_0_0.sl",
+                "filename": "standard/long.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.collections.arraylist": [
+            {
+                "url": "standard/collections/arraylist/1_0_0.sl",
+                "filename": "standard/collections/arraylist.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.collections.linkedlist": [
+            {
+                "url": "standard/collections/linkedlist/1_0_0.sl",
+                "filename": "standard/collections/linkedlist.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.collections.queue": [
+            {
+                "url": "standard/collections/queue/1_0_0.sl",
+                "filename": "standard/collections/queue.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.collections.stack": [
+            {
+                "url": "standard/collections/stack/1_0_0.sl",
+                "filename": "standard/collections/stack.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.cprocess": [
+            {
+                "url": "utils/cprocess/1_0_0.sl",
+                "filename": "utils/cprocess.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.process": [
+            {
+                "url": "utils/process/1_0_0.sl",
+                "filename": "utils/process.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.process_manager": [
+            {
+                "url": "utils/process_manager/1_0_0.sl",
+                "filename": "utils/process_manager.sl",
+                "version": "1.0.0"
+            },
+            {
+                "url": "utils/process_manager/1_0_1.sl",
+                "filename": "utils/process_manager.sl",
+                "version": "1.0.1"
+            }
+        ],
+        "utils.world": [
+            {
+                "url": "utils/world/1_0_0.sl",
+                "filename": "utils/world.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.bint": [
+            {
+                "url": "standard/bint/1_0_0.sl",
+                "filename": "standard/bint.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.damage": [
+            {
+                "url": "cmd/damage/1_0_0.sl",
+                "filename": "cmd/damage.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.parkour.spawnpoint": [
+            {
+                "url": "game/parkour/spawnpoint/1_0_0.sl",
+                "filename": "game/parkour/spawnpoint.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.camera": [
+            {
+                "url": "cmd/camera/1_0_0.sl",
+                "filename": "cmd/camera.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.inputpermission": [
+            {
+                "url": "cmd/inputpermission/1_0_0.sl",
+                "filename": "cmd/inputpermission.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.blocktags": [
+            {
+                "url": "mc/blocktags/1_0_0.sl",
+                "filename": "mc/blocktags.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.level": [
+            {
+                "url": "game/level/1_0_0.sl",
+                "filename": "game/level.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.arealevel": [
+            {
+                "url": "game/arealevel/1_0_0.sl",
+                "filename": "game/arealevel.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.globalclock": [
+            {
+                "url": "utils/globalclock/1_0_0.sl",
+                "filename": "utils/globalclock.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.effect_blocks": [
+            {
+                "url": "mc/effect_blocks/1_0_0.sl",
+                "filename": "mc/effect_blocks.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.event": [
+            {
+                "url": "utils/event/1_0_0.sl",
+                "filename": "utils/event.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.elytra": [
+            {
+                "url": "game/elytra/1_0_0.sl",
+                "filename": "game/elytra.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.ring": [
+            {
+                "url": "game/ring/1_0_0.sl",
+                "filename": "game/ring.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.world": [
+            {
+                "url": "mc/java/world/1_0_0.sl",
+                "filename": "mc/java/world.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.parkour.flag_checkpoint": [
+            {
+                "url": "game/parkour/flag_checkpoint/1_0_0.sl",
+                "filename": "game/parkour/flag_checkpoint.sl",
+                "resourcespack": [
+                    {
+                        "url": "resourcespack/flag_checkpoint/bedrock/1_0_0.zip",
+                        "filename": "flag_checkpoint",
+                        "version": "1.0.0",
+                        "game": "bedrock"
+                    },
+                    {
+                        "url": "resourcespack/flag_checkpoint/java/1_0_0.zip",
+                        "filename": "flag_checkpoint",
+                        "version": "1.0.0",
+                        "game": "java"
+                    }
+                ],
+                "version": "1.0.0"
+            }
+        ],
+        "mc.bedrock.entity": [
+            {
+                "url": "mc/bedrock/entity/1_0_0.sl",
+                "filename": "mc/bedrock/entity.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.bedrock.item": [
+            {
+                "url": "mc/bedrock/item/1_0_0.sl",
+                "filename": "mc/bedrock/item.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.parkour.manager": [
+            {
+                "url": "game/parkour/manager/1_0_0.sl",
+                "filename": "game/parkour/manager.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.click": [
+            {
+                "url": "mc/click/1_0_0.sl",
+                "filename": "mc/click.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.draw": [
+            {
+                "url": "utils/draw/1_0_0.sl",
+                "filename": "utils/draw.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.teammanager": [
+            {
+                "url": "game/teammanager/1_0_0.sl",
+                "filename": "game/teammanager.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.positionlock": [
+            {
+                "url": "mc/positionlock/1_0_0.sl",
+                "filename": "mc/positionlock.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.entity": [
+            {
+                "url": "mc/entity/1_0_0.sl",
+                "filename": "mc/entity.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "maps.theblueman003.screen": [
+            {
+                "url": "maps/theblueman003/screen/1_0_0.sl",
+                "filename": "maps/theblueman003/screen.sl",
+                "version": "1.0.0",
+                "resourcespack": [
+                    {
+                        "url": "resourcespack/theblueman_screen/bedrock/1_0_0.zip",
+                        "filename": "theblueman_screen",
+                        "version": "1.0.0",
+                        "game": "bedrock"
+                    },
+                    {
+                        "url": "resourcespack/theblueman_screen/java/1_0_0.zip",
+                        "filename": "theblueman_screen",
+                        "version": "1.0.0",
+                        "game": "java"
+                    }
+                ]
+            }
+        ],
+        "utils.pprocess": [
+            {
+                "url": "utils/pprocess/1_0_0.sl",
+                "filename": "utils/pprocess.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.hotbarmenu": [
+            {
+                "url": "mc/hotbarmenu/1_0_0.sl",
+                "filename": "mc/hotbarmenu.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.java.item": [
+            {
+                "url": "mc/java/item/1_0_0.sl",
+                "filename": "mc/java/item.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "cmd.spectate": [
+            {
+                "url": "cmd/spectate/1_0_0.sl",
+                "filename": "cmd/spectate.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.sprite": [
+            {
+                "url": "mc/sprite/1_0_0.sl",
+                "filename": "mc/sprite.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "standard.color": [
+            {
+                "url": "standard/color/1_0_0.sl",
+                "filename": "standard/color.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "game.language": [
+            {
+                "url": "game/language/1_0_0.sl",
+                "filename": "game/language.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "maps.theblueman003.textbox": [
+            {
+                "url": "maps/theblueman003/textbox/1_0_0.sl",
+                "filename": "maps/theblueman003/textbox.sl",
+                "version": "1.0.0",
+                "resourcespack": [
+                    {
+                        "url": "resourcespack/theblueman_textbox/java/1_0_0.zip",
+                        "filename": "theblueman_textbox",
+                        "version": "1.0.0",
+                        "game": "java"
+                    }
+                ]
+            }
+        ],
+        "utils.nbt": [
+            {
+                "url": "utils/nbt/1_0_0.sl",
+                "filename": "utils/nbt.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "utils.blocktags": [
+            {
+                "url": "utils/blocktags/1_0_0.sl",
+                "filename": "utils/blocktags.sl",
+                "version": "1.0.0"
+            }
+        ],
+        "mc.animatedentity": [
+            {
+                "url": "mc/animatedentity/1_0_0.sl",
+                "filename": "mc/animatedentity.sl",
+                "version": "1.0.0"
+            }
+        ]
+    }
+}

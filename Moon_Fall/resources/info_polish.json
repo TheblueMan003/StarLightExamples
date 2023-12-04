@@ -1,0 +1,15 @@
+{
+    "polish": {
+        "language_set": "Język ustawiony na Polski",
+        "info_jump": "Naciśnij W lub Prawy Przycisk Myszy by Skoczyć!",
+        "info_speed": "Zielone Bloki Przyspieszają Cię!",
+        "info_arrow": "Bloki ze Strzałkami Zmieniają Twój Kierunek!",
+        "info_bar": "Możesz zawisnąć na poprzeczce!\nNaciśnij S lub Prawy Przycisk Myszy by zejść!",
+        "info_double_jump": "Niebieskie Bloki Dają Tobie Podwójny Skok!",
+        "info_feather_falling": "Bloki z Piórkiem Dają Tobie Powolne Opadanie!",
+        "info_pass_through": "Możesz przechodzić przez bloki platformy!\nAle tylko w jedną stronę!",
+        "info_wind": "Wiatr sprawia że latasz!\nPrzytrzymaj S lub Prawy Przycisk Myszy by upaść!",
+        "info_wall_jump": "Możesz skoczyć na ścianę!",
+        "info_how_to_play": "Jak grać?"
+    }
+}

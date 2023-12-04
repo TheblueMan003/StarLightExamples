@@ -1,0 +1,8 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/scute"
+}
+,
+"overrides": [{"predicate": {"custom_model_data": 1},"model": "item/selector_red"},{"predicate": {"custom_model_data": 2},"model": "item/selector_orange"},{"predicate": {"custom_model_data": 3},"model": "item/selector_yellow"},{"predicate": {"custom_model_data": 4},"model": "item/selector_lime"},{"predicate": {"custom_model_data": 5},"model": "item/selector_green"},{"predicate": {"custom_model_data": 6},"model": "item/selector_light_blue"},{"predicate": {"custom_model_data": 7},"model": "item/selector_cyan"},{"predicate": {"custom_model_data": 8},"model": "item/selector_blue"},{"predicate": {"custom_model_data": 9},"model": "item/selector_purple"},{"predicate": {"custom_model_data": 10},"model": "item/selector_magenta"}]
+}

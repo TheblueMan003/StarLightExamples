@@ -1,0 +1,22 @@
+package level
+def @level load_7921883(){
+	author("TheblueMan003")
+	block.set(~ ~3 ~6, minecraft:green_terracotta)
+	block.set(~ ~4 ~6, minecraft:light_blue_terracotta)
+	block.set(~ ~5 ~6, minecraft:gray_terracotta)
+	block.set(~ ~6 ~6, minecraft:yellow_terracotta)
+	block.set(~ ~7 ~6, minecraft:brown_terracotta)
+	block.set(~ ~8 ~6, minecraft:red_terracotta)
+	block.set(~ ~3 ~7, minecraft:white_terracotta)
+	block.set(~ ~4 ~7, minecraft:white_terracotta)
+	block.set(~ ~5 ~7, minecraft:pink_terracotta)
+	block.set(~ ~6 ~7, minecraft:purple_terracotta)
+	block.set(~ ~7 ~7, minecraft:yellow_terracotta)
+	block.set(~ ~8 ~7, minecraft:green_terracotta)
+	block.set(~ ~3 ~8, minecraft:blue_terracotta)
+	block.set(~ ~4 ~8, minecraft:magenta_terracotta)
+	block.set(~ ~5 ~8, minecraft:lime_terracotta)
+	block.set(~ ~6 ~8, minecraft:blue_terracotta)
+	block.set(~ ~7 ~8, minecraft:magenta_terracotta)
+	block.set(~ ~8 ~8, minecraft:lime_terracotta)
+}
